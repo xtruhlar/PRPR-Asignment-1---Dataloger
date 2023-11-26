@@ -1,4 +1,4 @@
-# Datalogger - PRPR Assignment 1
+# Datalogger using Dynamic Arrays - PRPR Assignment 1
 
 ## Description
 
